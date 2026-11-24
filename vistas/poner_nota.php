@@ -7,6 +7,7 @@
     <title>Editar nota</title>
 </head>
 
+
 <body>
     <h1>Poner / editar nota</h1>
     <p>

@@ -1,5 +1,6 @@
 <?php
 require_once __DIR__ . "/../conexion/db.php";
+
 class UsersModel
 {
     public $conexion;
