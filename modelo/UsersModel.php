@@ -50,7 +50,7 @@ class UsersModel
     {
         $columnas = ['profesor1', 'profesor2', 'profesor3', 'profesor4'];
         if (!in_array($profesor, $columnas, true)) {
-            throw new InvalidArgumentException('Profesor no válido.');
+            throw new ErrorException('Profesor no válido.');
         }
 
         return $profesor;
