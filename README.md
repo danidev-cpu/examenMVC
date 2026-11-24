@@ -2,5 +2,5 @@
 
 ![admin](imagenes/admin.png)
 ![login](imagenes/login)
-![login](imagenes/profesor)
-![login](imagenes/edit)
+![profesor](imagenes/profesor)
+![edit](imagenes/edit)
